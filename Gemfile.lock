@@ -1,0 +1,12 @@
+GEM
+  specs:
+    benchmark-ips (2.13.0)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  benchmark-ips
+
+BUNDLED WITH
+   2.4.15
